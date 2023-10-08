@@ -1,0 +1,8 @@
+.photo-grid {
+  font-family: 'Inter', Arial, sans-serif;
+}
+@media screen and (max-width: 1200px){
+  .photo-grid {
+    padding: 0 16px;
+  }
+}
